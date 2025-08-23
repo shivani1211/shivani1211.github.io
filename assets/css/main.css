@@ -187,7 +187,7 @@ html {
   box-sizing: inherit;
 }
 
-body {
+/* body {
   background-image: url("images/colorbg.png");
   /* background-color: #935d8c;
   background-image: url("images/colorbg.png"),
@@ -198,6 +198,12 @@ body {
     -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
   background-image: url("images/colorbg.png"),
     linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
+
+body {
+  background: url("images/colorbg.png"),
+    linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.65);
 }
 
 body.is-preload *,
@@ -215,11 +221,10 @@ body.is-preload *:after {
 
 /* Type */
 
-body {
+/* body {
   background-image: url("images/colorbg.png");
   /* background-color: #935d8c;
   color: rgba(255, 255, 255, 0.65); */
-}
 
 body,
 input,
