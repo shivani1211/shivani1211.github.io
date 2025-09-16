@@ -1,32 +1,25 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This repository powers my personal portfolio website, hosted on GitHub Pages at: shivaniyadav.github.io
 
+🚀 About
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+My portfolio showcases my work as a Software Engineer with expertise in Frontend Development, Automation/DevOps, and Computer Networking. The site includes:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Professional experience and featured projects
 
-(* = Not included)
+Technical skills across software engineering and infrastructure
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+A section highlighting personal interests and creativity
 
-AJ
-aj@lkn.io | @ajlkn
+A contact form that sends messages directly to my inbox
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+🛠️ Built With
 
+HTML5 UP – Miniport Template (customized)
 
-Credits:
+HTML5, CSS3, JavaScript
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Font Awesome for icons
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Formspree for contact form handling
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Deployed with GitHub Pages
